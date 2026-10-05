@@ -5,6 +5,9 @@ Static, dependency-free marketing site for STRENTOR — strength, mindset and pu
 - `index.html` — single-page site (hero, approach, programs, founder, how it works, FAQ, contact)
 - `styles.css` — styles (responsive, accessible)
 - `script.js` — mobile nav, scroll reveal, contact form validation
+- `404.html` — not-found page
+
+Deploy: GitHub → Settings → Pages → Source "Deploy from a branch", `main` / root.
 
 Run locally: `npx serve .` or open `index.html`.
 
